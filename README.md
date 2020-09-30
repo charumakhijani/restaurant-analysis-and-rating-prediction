@@ -1,15 +1,15 @@
 <p> Dataset from https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
-# Table of Contents
+## Table of Contents
 
 1. [Import Libraries](#import-libraries)
 2. [Read Data](#read-data)
 3. [Check data](#check-data)
-    * [Check NULLs](#check-nulls)
-	* [Drop attributes that are not required] (#drop-attributes)
-	* [Rename columns] (#rename-columns)
+    	* [Check NULLs](#check-nulls)
+	* [Drop attributes that are not required](#drop-attributes)
+	* [Rename columns](#rename-columns)
 4. [Exploratory Data Analysis](#eda)
-    * [Plot Restaurant Names vs No of locations](#plot-1)
+    	* [Plot Restaurant Names vs No of locations](#plot-1)
 	* [Plot Online vs Offline Orders](#plot-2)
 	* [Plot Book Table Facility Counts](#plot-3)
 	* [Plot location with highest no of restaurants](#plot-4)
